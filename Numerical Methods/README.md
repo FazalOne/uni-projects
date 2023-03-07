@@ -9,4 +9,4 @@ This repository contains code for different methods mentioned in numerical compu
 - Trapozoidal Rule
 - Simpson's Rule
 
-Python is used here along with popular libraries including: Matplotlib, Scipy, Sympi, Numpy and tabulate. Filing was a requirement that is why you will find txt files alongside code which contains data on examples which have been run on that code.
+Python is used here along with popular libraries including: Matplotlib, Scipy, Sympi, Numpy and tabulate. Filing was a requirement, so that is why the code will also generate output in .txt file as well as plotted graphs.
